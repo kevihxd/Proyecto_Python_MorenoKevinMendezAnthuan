@@ -1,0 +1,23 @@
+{
+    "826c2758-2ddb-4b4a-90ee-20420f2c30fc": {
+        "fecha_envio": "2025-07-12",
+        "hora_envio": "15:21:00",
+        "destinatario": {
+            "nombre": "anthonu",
+            "direccion": "sevilla",
+            "telefono": "321444",
+            "ciudad": "bogota",
+            "barrio": "mierda"
+        },
+        "id_remitente": "12345",
+        "numero_guia": "826c2758-2ddb-4b4a-90ee-20420f2c30fc",
+        "estado": "Recibido",
+        "historial_estados": [
+            {
+                "estado": "Recibido",
+                "fecha": "2025-05-13 14:52:17",
+                "descripcion": "Paquete recibido en la oficina"
+            }
+        ]
+    }
+}

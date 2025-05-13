@@ -1,0 +1,34 @@
+{
+    "clientes": {
+        "1234567890": {
+            "nombres": "Juan",
+            "apellidos": "Pérez",
+            "num_identificacion": "1234567890",
+            "tipo_identificacion": "CC",
+            "direccion": "Calle 123 #45-67",
+            "telefono_fijo": "6012345678",
+            "numero_celular": "3101234567",
+            "barrio": "El Poblado"
+        },
+        "9876543210": {
+            "nombres": "María",
+            "apellidos": "González",
+            "num_identificacion": "9876543210",
+            "tipo_identificacion": "CC",
+            "direccion": "Carrera 78 #90-12",
+            "telefono_fijo": "6019876543",
+            "numero_celular": "3209876543",
+            "barrio": "Laureles"
+        },
+        "5678901234": {
+            "nombres": "Carlos",
+            "apellidos": "Rodríguez",
+            "num_identificacion": "5678901234",
+            "tipo_identificacion": "CE",
+            "direccion": "Avenida 34 #56-78",
+            "telefono_fijo": "6015678901",
+            "numero_celular": "3005678901",
+            "barrio": "Chapinero"
+        }
+    }
+}

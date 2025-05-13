@@ -1,0 +1,17 @@
+{
+    "total_envios": 8,
+    "conteo_estados": {
+        "Recibido": 2,
+        "En Transito": 3,
+        "En Ciudad Destino": 1,
+        "En Bodega De La Transportadora": 0,
+        "En Reparto": 1,
+        "Entregado": 1
+    },
+    "ciudades": {
+        "Bogotá": 3,
+        "Medellín": 2,
+        "Cali": 1,
+        "Barranquilla": 2
+    }
+}

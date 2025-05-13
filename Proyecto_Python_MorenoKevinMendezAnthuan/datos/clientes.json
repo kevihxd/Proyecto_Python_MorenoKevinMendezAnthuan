@@ -1,0 +1,12 @@
+{
+    "12345": {
+        "nombres": "anthuan mendez",
+        "apellidos": "mendez",
+        "id_numero": "12345",
+        "tipo_id": "CC",
+        "direccion": "calle1",
+        "telefono_fijo": "321455",
+        "celular": "3213312",
+        "barrio": "cucuta"
+    }
+}

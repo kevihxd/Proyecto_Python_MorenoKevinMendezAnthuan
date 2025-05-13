@@ -1,0 +1,95 @@
+{
+    "ABC123XYZ9": {
+        "fecha": "2025-05-10",
+        "hora": "14:30",
+        "destinatario": {
+            "nombre": "Ana Martínez",
+            "direccion": "Calle Principal 123",
+            "telefono": "3157891234",
+            "ciudad": "Bogotá",
+            "barrio": "Usaquén"
+        },
+        "num_identificacion_remitente": "1234567890",
+        "estado": "En Transito",
+        "num_guia": "ABC123XYZ9",
+        "historial": [
+            {
+                "estado": "Recibido",
+                "fecha": "2025-05-10",
+                "hora": "14:30:00"
+            },
+            {
+                "estado": "En Transito",
+                "fecha": "2025-05-11",
+                "hora": "08:45:12"
+            }
+        ]
+    },
+    "DEF456UVW8": {
+        "fecha": "2025-05-12",
+        "hora": "09:15",
+        "destinatario": {
+            "nombre": "Pedro Jiménez",
+            "direccion": "Avenida Central 456",
+            "telefono": "3101234567",
+            "ciudad": "Medellín",
+            "barrio": "El Poblado"
+        },
+        "num_identificacion_remitente": "9876543210",
+        "estado": "Recibido",
+        "num_guia": "DEF456UVW8",
+        "historial": [
+            {
+                "estado": "Recibido",
+                "fecha": "2025-05-12",
+                "hora": "09:15:00"
+            }
+        ]
+    },
+    "GHI789RST7": {
+        "fecha": "2025-05-08",
+        "hora": "11:45",
+        "destinatario": {
+            "nombre": "Laura Sánchez",
+            "direccion": "Carrera 45 #23-67",
+            "telefono": "3209876543",
+            "ciudad": "Cali",
+            "barrio": "Granada"
+        },
+        "num_identificacion_remitente": "5678901234",
+        "estado": "Entregado",
+        "num_guia": "GHI789RST7",
+        "historial": [
+            {
+                "estado": "Recibido",
+                "fecha": "2025-05-08",
+                "hora": "11:45:00"
+            },
+            {
+                "estado": "En Transito",
+                "fecha": "2025-05-09",
+                "hora": "08:30:22"
+            },
+            {
+                "estado": "En Ciudad Destino",
+                "fecha": "2025-05-10",
+                "hora": "14:15:45"
+            },
+            {
+                "estado": "En Bodega De La Transportadora",
+                "fecha": "2025-05-11",
+                "hora": "09:20:10"
+            },
+            {
+                "estado": "En Reparto",
+                "fecha": "2025-05-12",
+                "hora": "08:10:33"
+            },
+            {
+                "estado": "Entregado",
+                "fecha": "2025-05-12",
+                "hora": "14:25:18"
+            }
+        ]
+    }
+}
